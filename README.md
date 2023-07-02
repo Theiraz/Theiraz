@@ -9,7 +9,7 @@ Greetings! I'm Radoslav Bonev, an IT professional experienced in sales, customer
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,vscode,html,css,linux,discord,php" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,php,js,linux,discord," />
 </a>
 
 
