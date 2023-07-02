@@ -15,6 +15,6 @@ Greetings! I'm Radoslav Bonev, an IT professional experienced in sales, customer
 
 ## Connect with me via:
 <p align="left">
-<a href="https://www.linkedin.com/in/radoslav-bonev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Radoslav Bonev"/></a>
+<a href="https://www.linkedin.com/in/radoslav-bonev/" target="blank"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Radoslav Bonev"/></a>
 </p>
 
